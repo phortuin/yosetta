@@ -7,5 +7,6 @@ Personal repo to learn the basics of several programming languages by building t
 ```bash
 $ ./node.js
 $ ./python.py
+$ ./ruby.rb
 $ make cpp -s; ./cpp
 ```
