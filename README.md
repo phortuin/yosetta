@@ -8,6 +8,7 @@ Personal repo to learn the basics of several programming languages by building t
 $ ./node.js
 $ ./python.py
 $ ./ruby.rb
+$ ./perl.pl
 $ make cpp -s; ./cpp
 $ rustc rust.rs; ./rust
 $ go run go.go
