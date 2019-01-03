@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 function main() {
-    console.log('Yosetta!')
+  console.log('Yosetta!')
 }
 
 main()
