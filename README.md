@@ -9,4 +9,5 @@ $ ./node.js
 $ ./python.py
 $ ./ruby.rb
 $ make cpp -s; ./cpp
+$ rustc rust.rs; ./rust
 ```
