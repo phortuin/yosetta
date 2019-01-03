@@ -9,6 +9,7 @@ $ ./node.js
 $ ./python.py
 $ ./ruby.rb
 $ ./perl.pl
+$ ./bash.sh
 $ make cpp -s; ./cpp
 $ rustc rust.rs; ./rust
 $ go run go.go
